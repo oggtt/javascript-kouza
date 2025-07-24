@@ -1,0 +1,51 @@
+#section1{
+    color: white;
+    font-size: large;
+    text-shadow: black 1px 1px 2px, teal 0 0 20px;
+    font-family: "MS PGothic", "MS Gothic", sans-serif;
+}
+#section2{
+    font-size: large;
+    color: white;
+    text-shadow: black 1px 1px 2px, teal 0 0 20px;
+    font-family: "MS PGothic", "MS Gothic", sans-serif;
+}
+#section3{
+    font-size: large;
+    color: white;
+    text-shadow: black 1px 1px 2px, teal 0 0 20px;
+    font-family: "MS PGothic", "MS Gothic", sans-serif;
+}
+#section4{
+    font-size: large;
+    color: white;
+    text-shadow: black 1px 1px 2px, teal 0 0 20px;
+    font-family: "MS PGothic", "MS Gothic", sans-serif;
+}
+#section5{
+    font-size: large;
+    color: white;
+    text-shadow: black 1px 1px 2px, teal 0 0 20px;
+    font-family: "MS PGothic", "MS Gothic", sans-serif;
+}
+#section6{
+    font-size: large;
+    color: aquamarine;
+    text-shadow: black 1px 1px 2px, teal 0 0 20px;
+    font-family: "MS PGothic", "MS Gothic", sans-serif;
+}
+.wrapper {
+  display: flex;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.content {
+  padding: 10px;
+  background-color: white;
+  text-align: left;
+}
+body {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(to right, rgb(146, 219, 146) 5.0%, white 95.0%);
+}
